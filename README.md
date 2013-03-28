@@ -1,4 +1,4 @@
-hot pirate coffee
+hot pirate twisted
 =================
 
 - fetch first 20 pages with movie torrents from thepiratebay
